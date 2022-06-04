@@ -1,4 +1,3 @@
-https://yuito723.github.io/work-answer/
 <!DOCTYPE html>
 <html>
   <body>
